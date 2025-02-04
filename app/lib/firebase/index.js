@@ -8,13 +8,7 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAKuBs5JQVV4JevO86qmRQrV3FxMnn2VrY",
-  authDomain: "schedule-tracker-bdc9d.firebaseapp.com",
-  projectId: "schedule-tracker-bdc9d",
-  storageBucket: "schedule-tracker-bdc9d.firebasestorage.app",
-  messagingSenderId: "207826163408",
-  appId: "1:207826163408:web:666eaead388cfdaab1f0d5",
-  measurementId: "G-LB1TBFWWYE"
+  // Firebase data here
 };
 
 // Initialize Firebase
